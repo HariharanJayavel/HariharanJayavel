@@ -89,7 +89,7 @@ Passionate about solving real-world problems through software development, machi
       <h3>🌱 More Projects on GitHub</h3>
       <p>Check out my repositories for more code, experiments, and open-source contributions.</p>
       <br>
-      <a href="https://github.com/HariharanJayavel">View All Projects →</a>
+      <a href="https://github.com/HariharanJayavel?tab=repositories">View All Projects →</a>
     </td>
   </tr>
 </table>
